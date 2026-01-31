@@ -22,6 +22,7 @@ This project analyzes food delivery and restaurant data to uncover insights into
 - Git & GitHub
 
 ---
+## 📂 Project Structure
 
 Food-Delivery-Data-Analysis/
 │
@@ -111,4 +112,4 @@ If you want a **shorter version** or **SQL-only / Power BI-only README**, say th
 
 
 
-## 📂 Project Structure
+

@@ -107,9 +107,5 @@ Skills: Data Analysis, Python, SQL, EDA, Power BI, Web Development
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
 
-✅ **Ready to copy & paste directly into `README.md`**  
-If you want a **shorter version** or **SQL-only / Power BI-only README**, say the word.
-
-
 
 
